@@ -30,11 +30,7 @@ Welcome to my Daily Programming Challenge repository! This collection contains s
    ```
 
 ## 📝 Note
-- All solutions are well-commented for better understanding
-- Time and space complexities are mentioned for each solution
-- Feel free to contribute or suggest improvements!
 
-## 📚 Resources
-- [LeetCode](https://leetcode.com/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)
-- [HackerRank](https://www.hackerrank.com/)
+* Time and space complexities are mentioned for each solution
+* Feel free to contribute or suggest improvements!
+
