@@ -9,6 +9,7 @@ Welcome to my Daily Programming Challenge repository! This collection contains s
 | [Find the Missing Number](https://leetcode.com/problems/missing-number/) | [Solution](FindMissingNumber.java) | O(n) | O(1) |
 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](FindDuplicateNumber.java) | O(n) | O(1) |
 | [Sort Colors (0, 1, 2)](https://leetcode.com/problems/sort-colors/) | [Solution](Sort012.java) | O(n) | O(1) |
+| [Merge Two Sorted Arrays](https://www.geeksforgeeks.org/merge-two-sorted-arrays-o1-extra-space/) | [Solution](MergeTwoSortedArrays.java) | O((n+m)log(n+m)) | O(1) |
 
 ## 🛠️ Prerequisites
 
